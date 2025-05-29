@@ -119,6 +119,3 @@ Intern, Arch Technology
 📧 Email: yasirabdullah4549@gmail.com
 🌐 GitHub: https://github.com/mirzayasirabdullahbaig07/
 
-=======
-# 02_Project_ARIMA_Model
->>>>>>> 42e406cc4f78c49cb6a6de635cbd6ba4b595aa49
