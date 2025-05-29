@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📈 Ethereum (ETH/USDT) Price Forecasting using ARIMA
 
 This project applies **Time Series Analysis** and the **ARIMA model** to forecast Ethereum (ETH/USDT) prices using historical data. The objective is to uncover patterns, test for stationarity, and generate reliable forecasts for future price trends in the cryptocurrency market.
@@ -118,3 +119,6 @@ Intern, [Your Institution / Organization]
 📧 Email: [your-email]  
 🌐 GitHub: [your-github-profile]
 
+=======
+# 02_Project_ARIMA_Model
+>>>>>>> 42e406cc4f78c49cb6a6de635cbd6ba4b595aa49
