@@ -114,10 +114,10 @@ This project applies **Time Series Analysis** and the **ARIMA model** to forecas
 
 ## 👨‍💻 Author
 
-**[Your Name]**  
-Intern, [Your Institution / Organization]  
-📧 Email: [your-email]  
-🌐 GitHub: [your-github-profile]
+**Mirza Yasir Abdullah Baig**  
+Intern, Arch Technology 
+📧 Email: yasirabdullah4549@gmail.com
+🌐 GitHub: https://github.com/mirzayasirabdullahbaig07/
 
 =======
 # 02_Project_ARIMA_Model
